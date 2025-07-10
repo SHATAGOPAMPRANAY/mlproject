@@ -1,0 +1,16 @@
+1.hi
+2.how are you.
+3.going to home.
+4.than go to home.
+
+1. git insilization
+git init
+git status
+
+2.stages
+add file.
+add username
+add email
+
+3. to add email and username
+git config user.name 'abc
